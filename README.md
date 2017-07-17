@@ -1,5 +1,5 @@
 # London Ruby Unconference 2017
-Welcome to the London Ruby Unconference 2016! 
+Welcome to the London Ruby Unconference 2017! 
 
 ## Unconference Theme
 All things related to Ruby, including Elixir, Crystal, etc.
