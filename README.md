@@ -2,10 +2,10 @@
 Welcome to the London Ruby Unconference 2017! 
 
 ## Unconference Theme
-All things related to Ruby, including Elixir, Crystal, etc.
+The love for Ruby and all things related to Ruby (Elixir, Crystal) and current trends.
 
 ## What is an Unconference anyway?
-An 'unconference' is a gathering which aims to provide an open and creative conversation on a topic of mutual interest to surface their collective knowledge, share ideas and insights, and gain a deeper understanding of the subject and the issues involved. It is unlike a normal conference is that there is no pre-planned agenda, no central organisation, no fixed speakers, and no eye-watering price tag! 
+An 'unconference' is a gathering which aims to provide an open and creative conversation on a topic of mutual interest to surface their collective knowledge, share ideas and insights, and gain a deeper understanding of the subject and the issues involved. It is unlike a normal conference is that there is no pre-planned agenda, no central organization, no fixed speakers, and no eye-watering price tag!
 
 ## How does it work?
 But surely that'll never work?! Well, you might think that, but there are already a very long list of very successful unconferences - in London we have XP Day and the LJC Open Conference, and outside London the SoCraTes (un)conference, to name but three. Somewhat more famous examples include [BarCamp](http://barcamp.org/w/page/402984/FrontPage) (worldwide) and even [UKGovCamp!](https://www.youtube.com/watch?v=kqThn6yeBJA)
@@ -27,15 +27,40 @@ These aren't rules, per se, but they are things that you should expect:
 * _Expect_ to have to explain the 'why', and to talk about the meta around things that you may take for granted in your usual workplace/community
 
 ## What will we talk about?
-We expect to have at least 16 sessions.
+We expect to have at least 14 sessions and 6 hands-on workshops.
 
-Some people have already proposed session ideas. We'll list them here:
+Ideas can be suggested by anyone by editing the [London Ruby Unconference Github Page](https://github.com/codescrum/london_ruby_unconference_2017#what-will-we-talk-about)
 
-1. Please edit and contribute a topic here
-2. Please edit and contribute a topic here.
-3. Please edit and contribute a topic here. 
-4. Please edit and contribute a topic here.
-5. Please edit and contribute a topic here.
+Workshops are 1 to 2 hours hands-on sessions lead by an experienced developer. So far, we have confirmed:
+
+* [Hypermedia and Ruby Workshop led by Ismael Ceris](https://www.linkedin.com/pulse/hypermedia-ruby-workshop-led-ismael-ceris-london-2017-jairo-diaz/?lipi=urn%3Al)
+* [Writing Nomads (Functional Programming) in Ruby with Adam Lancaster](https://www.linkedin.com/pulse/functional-programming-workshop-ruby-adam-lancaster-london-jairo-diaz/)
+* Integrating React into your Rails Application by Hrishi Mittal
+* [Building a chat app with Elixir and Phoenix by Tetiana Dushenki](http://www.linkedin.com/pulse/building-chat-app-elixir-phoenix-rubyunconf-jairo-diaz/)
+A pipeline to get you excited by Gerhard Lazu
+
+These are some of the topics that attendees have suggested this year*:
+
+* Rails Security and Continuous Integration/Delivery
+* Topics about Performance
+* Elixir
+* Rails, Gem authorship, war stories
+* How to structure large/complex Ruby/Rails projects effectively
+* Opal (Ruby to JavaScript Compiler)
+* DDD (Domain Driven Design)
+* Work related: careers / contracting / remote work advice
+* Rails 5.1
+* Alternative Ruby runtimes such as TruffleRuby and JRuby
+* Elegant ruby
+* Ruby 3!
+* Machine Learning/ AI
+* Future of Rails
+
+Topics confirmed:
+
+* What impact will optimizing runtimes such as TruffleRuby have on how we write Ruby code? by Ivo Anjo
+* JRuby in 2017 and beyond: Challenges, Bugs, Hopes and Dreams by Ivo Anjo
+* Talking about Talking by John Cinnamond
 
 
 ## When and Where is the venue?
@@ -47,7 +72,8 @@ The venue is 2 min walk from Holborn Tube Station.
 
 The address is:
 
-[New Penderel House] (https://goo.gl/maps/cFibehf5Q9t), 6th Floor, 283-288 High Holborn, WC1V 7HP
+[CarWow HQ] (https://goo.gl/maps/7wv4GMYBe892), 6th Floor, New Penderel House, 283-288 High, Holborn WC1V 7HP London, United Kingdom
+
 
 ## Event Schedule
 
