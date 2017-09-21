@@ -58,8 +58,8 @@ These are some of the topics that attendees have suggested this year*:
 
 Topics confirmed:
 
-* What impact will optimizing runtimes such as TruffleRuby have on how we write Ruby code? by Ivo Anjo
-* JRuby in 2017 and beyond: Challenges, Bugs, Hopes and Dreams by Ivo Anjo
+* [What impact will optimizing runtimes such as TruffleRuby have on how we write Ruby code? by Ivo Anjo](https://www.linkedin.com/pulse/what-impact-optimization-runtimes-truffleruby-have-how-jairo-diaz)
+* [JRuby in 2017 and beyond: Challenges, Bugs, Hopes and Dreams by Ivo Anjo](https://www.linkedin.com/pulse/jruby-2017-beyond-challenges-bugs-hopes-dreams-jairo-diaz)
 * Talking about Talking by John Cinnamond
 
 
