@@ -31,13 +31,18 @@ We expect to have at least 14 sessions and 6 hands-on workshops.
 
 Ideas can be suggested by anyone by editing the [London Ruby Unconference Github Page](https://github.com/codescrum/london_ruby_unconference_2017#what-will-we-talk-about)
 
-Workshops are 1 to 2 hours hands-on sessions lead by an experienced developer. So far, we have confirmed:
+Workshops are 1 to 2 hours hands-on sessions lead by an experienced developer. 
+
+Workshops and topics that are being prepared are:
 
 * [Hypermedia and Ruby Workshop led by Ismael Ceris](https://www.linkedin.com/pulse/hypermedia-ruby-workshop-led-ismael-ceris-london-2017-jairo-diaz/?lipi=urn%3Al)
 * [Writing Nomads (Functional Programming) in Ruby with Adam Lancaster](https://www.linkedin.com/pulse/functional-programming-workshop-ruby-adam-lancaster-london-jairo-diaz/)
-* Integrating React into your Rails Application by Hrishi Mittal
 * [Building a chat app with Elixir and Phoenix by Tetiana Dushenki](http://www.linkedin.com/pulse/building-chat-app-elixir-phoenix-rubyunconf-jairo-diaz/)
-A pipeline to get you excited by Gerhard Lazu
+* A pipeline to get you excited by Gerhard Lazu (https://www.linkedin.com/pulse/pipeline-get-you-excited-jairo-diaz/)
+* What impact will optimizing runtimes such as TruffleRuby have on how we write Ruby code? by Ivo Anjo (https://www.linkedin.com/pulse/what-impact-optimization-runtimes-truffleruby-have-how-jairo-diaz/) 
+* JRuby in 2017 and beyond: Challenges, Bugs, Hopes and Dreams by Ivo Anjo (https://www.linkedin.com/pulse/jruby-2017-beyond-challenges-bugs-hopes-dreams-jairo-diaz/)
+* Talking about Talking by John Cinnamond (https://www.linkedin.com/pulse/preparing-your-first-public-talk-community-jairo-diaz/)
+* What is a GraphQL? (and you can too) by (https://www.linkedin.com/pulse/what-graphql-api-how-can-i-develop-one-jairo-diaz/)
 
 These are some of the topics that attendees have suggested this year*:
 
@@ -55,13 +60,6 @@ These are some of the topics that attendees have suggested this year*:
 * Ruby 3!
 * Machine Learning/ AI
 * Future of Rails
-
-Topics confirmed:
-
-* [What impact will optimizing runtimes such as TruffleRuby have on how we write Ruby code? by Ivo Anjo](https://www.linkedin.com/pulse/what-impact-optimization-runtimes-truffleruby-have-how-jairo-diaz)
-* [JRuby in 2017 and beyond: Challenges, Bugs, Hopes and Dreams by Ivo Anjo](https://www.linkedin.com/pulse/jruby-2017-beyond-challenges-bugs-hopes-dreams-jairo-diaz)
-* Talking about Talking by John Cinnamond
-
 
 ## When and Where is the venue?
 The unconference is on Saturday, the 7th of October 2017.
